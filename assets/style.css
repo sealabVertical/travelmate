@@ -1,0 +1,42 @@
+/* Soft blue background */
+body.bg-light-blue {
+  background: #eaf6f6;
+}
+
+/* Results box image + spacing */
+#results img {
+  border-radius: 8px;
+  margin-bottom: 15px;
+  max-width: 100px;
+}
+
+/* Improve typography */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+
+/* Headings */
+h1 {
+  font-weight: 600;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #5dade2;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #3498db;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #d6eaf8;
+}
+
+/* Inputs */
+#countryInput {
+  font-size: 0.9rem;
+  padding: 8px;
+}
